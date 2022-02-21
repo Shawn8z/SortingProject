@@ -39,7 +39,7 @@ function insertionSort(arr) {
 }
 // console.log(insertionSort(testArr));
 
-console.log(selectionSort);
+// console.log(selectionSort);
 //console.log(selectionSort(testArr));
 
 
